@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+}
+
+h2, h3 {
+  color: rgb(19, 152, 19);
+}
